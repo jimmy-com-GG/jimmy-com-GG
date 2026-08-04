@@ -16,9 +16,6 @@
 - **目前專案偵測語言：** Python、PowerShell、YAML、JSON、Markdown、systemd
 - **庫 / 框架：** discord.py、Redis、RapidOCR、ONNX Runtime、Pillow
 - **工具 / 執行環境：** Git、GitHub Actions、pip、Caddy、systemd、PowerShell、GitHub
-- **目前專案功能：** Discord Bot、Security Automation、Permission Scanning、Blacklist Bulk Scan、Web Dashboard、SQLite Storage、Audit Logging、Backup / Restore、Threat Intelligence
-
-> Auto-detected from the active Discord Guard workspace.
 
 ---
 
