@@ -11,15 +11,16 @@
 
 ---
 
-## Skills
+## 技能
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,cpp,ruby,flask,fastapi,html,css,cloudflare,vercel,vscode,git,github&perline=14" alt="skills" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,powershell,redis,git,githubactions,github,vscode&perline=14" alt="auto-detected skills" />
 
-- **Languages / Code:** Python, JavaScript, Node.js, C++, Ruby, HTML, CSS
-- **Libraries / Frameworks:** NumPy, Pillow, Flask, FastAPI, SlowAPI, Discord.py, Tkinter, LavaLyra
-- **Tools:** VS Code, Dev-C++, Notepad++, Git, GitHub, Cloudflare, Vercel
+- **程式語言 / 程式碼：** Python、PowerShell、YAML、JSON、Markdown、systemd
+- **庫 / 框架：** discord.py、Redis、RapidOCR、ONNX Runtime、Pillow
+- **工具 / 執行環境：** Git、GitHub Actions、pip、Caddy、systemd、PowerShell、GitHub
+- **目前專案功能：** Discord Bot、Security Automation、Permission Scanning、Blacklist Bulk Scan、Web Dashboard、SQLite Storage、Audit Logging、Backup / Restore、Threat Intelligence
+
+> Auto-detected from the active Discord Guard workspace.
 
 ---
 
@@ -30,5 +31,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimmy-com-GG/jimmy-com-GG/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/jimmy-com-GG/jimmy-com-GG/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<!-- profile-refresh: 2026-08-04T12:20:00Z -->
