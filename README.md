@@ -4,9 +4,6 @@
 
 全端工程師 / 資訊安全研究 / Discord Bot 開發
 
-<img src="https://github-readme-stats.vercel.app/api?username=jimmy-com-GG&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-com-GG&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used languages" />
-
 </div>
 
 ---
