@@ -17,36 +17,7 @@
 - **庫 / 框架：** discord.py、Redis、RapidOCR、ONNX Runtime
 - **工具 / 執行環境：** Git、GitHub Actions、pip、Caddy、systemd、PowerShell、VS Code、GitHub、Cloudflare、Docker、Discord
 
----
 
-## 安全系統更新
-
-### 主動防禦
-
-- 修復黑名單私訊文字
-- 修復無權限嘗試停權
-- 自動移除無權限日誌頻道
-- 自動標記用戶快取
-
-### 掃描權限
-
-- *新增指令*
-- 掃描機器人自身權限
-- 掃描伺服器成員權限
-- 掃描可管理身分組
-- 綜合掃描結果進行評分
-
-### 掃描黑名單
-
-- *新增指令*
-- 自動檢查權限
-- 透過 `bulk` 批量模式停權
-- 自動略過無權管理之成員
-- 僅顯示成功停權者及其數量
-
-<sub>*掃描權限分數大於 80 為佳</sub>
-
----
 
 ## Contribution Snake
 
