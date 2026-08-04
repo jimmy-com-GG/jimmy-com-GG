@@ -13,9 +13,10 @@
 
 ## 技能
 
-<img src="https://skillicons.dev/icons?i=py,powershell,redis,git,githubactions,github,vscode&perline=14" alt="auto-detected skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cs,py,redis,git,githubactions,powershell,github,vscode&perline=14" alt="auto-detected skills" />
 
-- **程式語言 / 程式碼：** Python、PowerShell、YAML、JSON、Markdown、systemd
+- **程式語言 / 程式碼：** HTML、CSS、JavaScript、PHP、SQL、C、C#、Python
+- **目前專案偵測語言：** Python、PowerShell、YAML、JSON、Markdown、systemd
 - **庫 / 框架：** discord.py、Redis、RapidOCR、ONNX Runtime、Pillow
 - **工具 / 執行環境：** Git、GitHub Actions、pip、Caddy、systemd、PowerShell、GitHub
 - **目前專案功能：** Discord Bot、Security Automation、Permission Scanning、Blacklist Bulk Scan、Web Dashboard、SQLite Storage、Audit Logging、Backup / Restore、Threat Intelligence
