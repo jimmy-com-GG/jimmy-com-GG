@@ -14,7 +14,7 @@
 
 - **程式語言 / 程式碼：** HTML、CSS、JavaScript、PHP、SQL、C、C#、Python
 - **目前專案偵測語言：** Python、PowerShell、YAML、JSON、Markdown、systemd
-- **庫 / 框架：** discord.py、Redis、RapidOCR、ONNX Runtime、Pillow
+- **庫 / 框架：** discord.py、Redis、RapidOCR、ONNX Runtime
 - **工具 / 執行環境：** Git、GitHub Actions、pip、Caddy、systemd、PowerShell、GitHub
 
 ---
