@@ -17,6 +17,12 @@
 - **庫 / 框架：** discord.py、Redis、RapidOCR、ONNX Runtime
 - **工具 / 執行環境：** Git、GitHub Actions、pip、Caddy、systemd、PowerShell、VS Code、GitHub、Cloudflare、Docker、Discord
 
+## Discord Bot 條款
+
+鎮中央 Discord Bot 的使用條款、資料紀錄說明、隱私與安全責任範圍請參考：
+
+[相關條款](./TERMS.md)
+
 
 
 ## Contribution Snake
