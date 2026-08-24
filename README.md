@@ -43,6 +43,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cs,py,redis,git,githubactions,powershell,vscode,github,cloudflare,docker,discord&perline=9" alt="tech stack" />
 </p>
 
+## Developer Workspace
+
+<p>
+  <img src="./assets/developer-workspace.png" alt="developer workspace" />
+</p>
+
 ## Focus
 
 | 方向 | 內容 |
