@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,45:111827,100:14532d&text=JIMMY%20SECURITY%20LAB&fontColor=e5e7eb&fontSize=44&animation=fadeIn&desc=Full-stack%20Engineer%20/%20Security%20Researcher%20/%20Discord%20Bot%20Builder&descAlignY=67&descSize=15" alt="Jimmy Security Lab" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,45:111827,100:14532d&text=JIMMY%20DEV%20LAB&fontColor=e5e7eb&fontSize=44&animation=fadeIn&desc=Full-stack%20Engineer%20/%20Discord%20Bot%20Builder%20/%20Automation%20Developer&descAlignY=67&descSize=15" alt="Jimmy Dev Lab" />
 
 <p>
   <a href="./TERMS.md"><img src="https://img.shields.io/badge/Discord%20Bot-%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE-22C55E?style=for-the-badge&labelColor=020617" alt="Discord Bot 使用條款" /></a>
   <a href="./PRIVACY.md"><img src="https://img.shields.io/badge/Privacy-%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96-38BDF8?style=for-the-badge&labelColor=020617" alt="隱私政策" /></a>
-  <img src="https://img.shields.io/badge/Mode-Defensive%20Security-A78BFA?style=for-the-badge&labelColor=020617" alt="Defensive Security" />
+  <img src="https://img.shields.io/badge/Mode-Full%20Stack%20Builder-A78BFA?style=for-the-badge&labelColor=020617" alt="Full Stack Builder" />
 </p>
 
 ![訪客人數](https://count.getloli.com/@jimmy-com-GG?name=jimmy-com-GG&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
@@ -18,8 +18,8 @@
 
 ```text
 name      Jimmy
-role      Full-stack Engineer / Security Researcher
-focus     Discord Bot, Web/App, Automation, Defensive Security
+role      Full-stack Engineer / Discord Bot Builder
+focus     Discord Bot, Web/App, Automation
 principle Least Privilege, Auditability, Maintainability, Recovery
 ```
 
@@ -40,8 +40,8 @@ principle Least Privilege, Auditability, Maintainability, Recovery
   </tr>
   <tr>
     <td width="50%">
-      <strong>Security</strong><br />
-      RBAC、最小權限、稽核紀錄、API 安全、資料保護、惡意行為偵測
+      <strong>Engineering Quality</strong><br />
+      RBAC、最小權限、稽核紀錄、API 設計、資料保護、行為偵測
     </td>
     <td width="50%">
       <strong>Ops / Automation</strong><br />
@@ -63,7 +63,7 @@ principle Least Privilege, Auditability, Maintainability, Recovery
 ## current build
 
 <p>
-  <img src="https://img.shields.io/badge/Discord%20Guard-Security%20Bot-22c55e?style=for-the-badge&labelColor=020617" alt="Discord Guard" />
+  <img src="https://img.shields.io/badge/Discord%20Guard-Utility%20Bot-22c55e?style=for-the-badge&labelColor=020617" alt="Discord Guard" />
   <img src="https://img.shields.io/badge/Detection-Risk%20Scoring-ef4444?style=for-the-badge&labelColor=020617" alt="Risk Scoring" />
   <img src="https://img.shields.io/badge/Dashboard-Admin%20Console-38bdf8?style=for-the-badge&labelColor=020617" alt="Admin Dashboard" />
   <img src="https://img.shields.io/badge/Storage-SQLite%20/%20Redis-f59e0b?style=for-the-badge&labelColor=020617" alt="Storage" />
@@ -72,7 +72,7 @@ principle Least Privilege, Auditability, Maintainability, Recovery
 | Area | What I build |
 | --- | --- |
 | Discord Bot | 防護系統、案件管理、權限分級、Dashboard |
-| Security | 最小權限、操作稽核、風險分析、敏感資料保護 |
+| Engineering | 最小權限、操作稽核、風險分析、敏感資料保護 |
 | Automation | 部署流程、通知整合、資料備份、維運工具 |
 | Research | 防禦型測試、威脅情資整理、弱點風險分析 |
 
