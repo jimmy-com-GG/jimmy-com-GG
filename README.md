@@ -23,8 +23,6 @@ focus     Discord Bot, Web/App, Automation, Defensive Security
 principle Least Privilege, Auditability, Maintainability, Recovery
 ```
 
-比起只做能跑的功能，我更重視權限邊界、資料安全、可維護架構、稽核紀錄與實際上線後的穩定性。
-
 ---
 
 ## operator panel
