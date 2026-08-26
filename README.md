@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,45:111827,100:14532d&text=JIMMY%20DEV%20LAB&fontColor=e5e7eb&fontSize=44&animation=fadeIn&desc=Full-stack%20Engineer%20/%20Discord%20Bot%20Builder%20/%20Automation%20Developer&descAlignY=67&descSize=15" alt="Jimmy Dev Lab" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,45:111827,100:14532d&text=JIMMY%20COMMAND%20CENTER&fontColor=e5e7eb&fontSize=40&animation=fadeIn&desc=Full-stack%20Engineer%20/%20Discord%20Bot%20Builder%20/%20Automation%20Developer&descAlignY=67&descSize=15" alt="Jimmy Command Center" />
 
 <p>
   <a href="./TERMS.md"><img src="https://img.shields.io/badge/Discord%20Bot-%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE-22C55E?style=for-the-badge&labelColor=020617" alt="Discord Bot 使用條款" /></a>
