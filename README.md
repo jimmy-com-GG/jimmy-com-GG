@@ -73,8 +73,6 @@ principle 模組化設計、可維護性、效能、自動化
 | 前端開發 | HTML、CSS、JavaScript、管理後台、響應式介面 |
 | Bot 開發 | discord.py、互動指令、事件處理、通知整合 |
 | 資料處理 | SQL、SQLite、Redis、OCR、資料庫與快取整合 |
-| 部署與自動化 | GitHub Actions、PowerShell、Docker、Caddy、Cloudflare、systemd |
-| 工程品質 | 自動化測試、例外處理、效能調校、程式維護 |
 
 ---
 
