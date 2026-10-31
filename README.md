@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,45:111827,100:14532d&text=JIMMY&fontColor=e5e7eb&fontSize=54&animation=fadeIn&desc=Full-stack%20Engineer%20/%20Discord%20Bot%20Builder%20/%20Automation%20Developer&descAlignY=67&descSize=15" alt="Jimmy" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,45:111827,100:14532d&text=JIMMY&fontColor=e5e7eb&fontSize=54&animation=fadeIn&desc=Full-stack%20Engineer%20/%20Backend%20Developer%20/%20Automation%20Developer&descAlignY=67&descSize=15" alt="Jimmy" />
 
 <p>
-  <a href="./TERMS.md"><img src="https://img.shields.io/badge/Discord%20Bot-%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE-22C55E?style=for-the-badge&labelColor=020617" alt="Discord Bot 使用條款" /></a>
-  <a href="./PRIVACY.md"><img src="https://img.shields.io/badge/Privacy-%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96-38BDF8?style=for-the-badge&labelColor=020617" alt="隱私政策" /></a>
   <img src="https://img.shields.io/badge/Mode-Full%20Stack%20Builder-A78BFA?style=for-the-badge&labelColor=020617" alt="Full Stack Builder" />
 </p>
 
@@ -18,9 +16,9 @@
 
 ```text
 name      Jimmy
-role      Full-stack Engineer / Discord Bot Builder
+role      Full-stack Engineer / Automation Developer
 focus     Discord Bot, Web/App, Automation
-principle Least Privilege, Auditability, Maintainability, Recovery
+principle 模組化設計、可維護性、效能、自動化
 ```
 
 ---
@@ -41,7 +39,7 @@ principle Least Privilege, Auditability, Maintainability, Recovery
   <tr>
     <td width="50%">
       <strong>Engineering Quality</strong><br />
-      RBAC、最小權限、稽核紀錄、API 設計、資料保護、行為偵測
+      API 設計、模組化架構、資料庫設計、例外處理、自動化測試、效能調校
     </td>
     <td width="50%">
       <strong>Ops / Automation</strong><br />
@@ -60,33 +58,23 @@ principle Least Privilege, Auditability, Maintainability, Recovery
 
 ---
 
-## current build
+## development
 
 <p>
-  <img src="https://img.shields.io/badge/Discord%20Guard-Utility%20Bot-22c55e?style=for-the-badge&labelColor=020617" alt="Discord Guard" />
-  <img src="https://img.shields.io/badge/Detection-Risk%20Scoring-ef4444?style=for-the-badge&labelColor=020617" alt="Risk Scoring" />
-  <img src="https://img.shields.io/badge/Dashboard-Admin%20Console-38bdf8?style=for-the-badge&labelColor=020617" alt="Admin Dashboard" />
-  <img src="https://img.shields.io/badge/Storage-SQLite%20/%20Redis-f59e0b?style=for-the-badge&labelColor=020617" alt="Storage" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%2F%20PHP-22c55e?style=for-the-badge&labelColor=020617" alt="後端開發" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%2F%20CSS%20%2F%20JavaScript-38bdf8?style=for-the-badge&labelColor=020617" alt="前端開發" />
+  <img src="https://img.shields.io/badge/Automation-GitHub%20Actions%20%2F%20PowerShell-a78bfa?style=for-the-badge&labelColor=020617" alt="流程自動化" />
+  <img src="https://img.shields.io/badge/Storage-SQLite%20%2F%20Redis-f59e0b?style=for-the-badge&labelColor=020617" alt="資料庫與快取" />
 </p>
 
-| Area | What I build |
+| 技術領域 | 開發內容 |
 | --- | --- |
-| Discord Bot | 防護系統、案件管理、權限分級、Dashboard |
-| Engineering | 最小權限、操作稽核、風險分析、敏感資料保護 |
-| Automation | 部署流程、通知整合、資料備份、維運工具 |
-| Research | 防禦型測試、威脅情資整理、弱點風險分析 |
-
----
-
-## discord bot terms
-
-鎮中央 Discord Bot 的使用條款、資料紀錄說明、隱私與安全責任範圍請參考：
-
-<p>
-  <a href="./TERMS.md">使用條款</a>
-  ·
-  <a href="./PRIVACY.md">隱私政策</a>
-</p>
+| 後端開發 | Python、PHP、API 設計、模組化服務 |
+| 前端開發 | HTML、CSS、JavaScript、管理後台、響應式介面 |
+| Bot 開發 | discord.py、互動指令、事件處理、通知整合 |
+| 資料處理 | SQL、SQLite、Redis、OCR、資料庫與快取整合 |
+| 部署與自動化 | GitHub Actions、PowerShell、Docker、Caddy、Cloudflare、systemd |
+| 工程品質 | 自動化測試、例外處理、效能調校、程式維護 |
 
 ---
 
